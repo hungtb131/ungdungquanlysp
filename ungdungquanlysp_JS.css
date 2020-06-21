@@ -1,0 +1,39 @@
+table{
+    width: 100%;
+    font-size: xx-large;
+    text-align: left;
+    padding: 10px;
+}
+#input{
+    background-color: darkgray;
+    margin: 30px;
+    width: 35%;
+    padding: 5px;
+
+}
+#Product {
+    margin-top: 10px;
+    background-image: url(https://codegym.vn/blog/2018/11/21/tuyen-cong-tac-vien-tu-van-tuyen-sinh-luong-20k-gio/);
+}
+#addproduct{
+    background-color: lawngreen;
+    width: 120px;
+    border-radius: 6px;
+    height: 40px;
+}
+#edit {
+    background-color: burlywood;
+    width: 50px;
+    border-radius: 6px;
+    height: 40px;
+}
+#delete{
+    background-color: indianred;
+    width: 70px;
+    border-radius: 6px;
+    height: 40px;
+}
+#newproduct{
+    height: 40px;
+    width: 300px;
+}
